@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 >   We are working for a consumer finance company which specializes in lending various types of loans to urban customers.
   The company wants to understand the strong indicators driving  loan defaults. The company can utilize this knowledge for its portfolio and risk assessment. 
 
